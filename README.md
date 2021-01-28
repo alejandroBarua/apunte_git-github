@@ -6,6 +6,19 @@
   </sub>
 </div>
 
+#### Git : lo necesario para trabajar de manera local
+
+- Como empezar a trabajar con Git
+  - Comandos utiles de la terminal
+  - Configuraciones iniciales
+- Como agregar un commit al repositorio
+- Como volver a un commit especifico
+- Manejo de ramas
+
+#### Github : lo que hay que saber para trabajar en equipo de manera remota
+
+# Git
+
 ### Como empezar a trabajar con Git
 
 [instalar git](https://git-scm.com/downloads)
